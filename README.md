@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Elm なんかつくろう会
 
-You can use the [editor on GitHub](https://github.com/matsubara0507/elm-nankatsukuro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- 1時間ぐらいでやるオンラインの Elm ハッカソン
+    - 各回ごとにお題を決めてやる
+    - [Discord](https://discord.gg/AJncbK) でやり取りしてる
+- connpass で募集してる
+- 詳しくは[コレ](https://scrapbox.io/ababup1192/Elmなんか作ろう会)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 過去のやーつ
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matsubara0507/elm-nankatsukuro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Elmなんか作ろう会 #5 - connpass](https://connpass.com/event/75853/)
+    - お題は「おみくじ」
+    - [ぼくの成果物](work/5)
+- [Elmなんか作ろう会 #4 - connpass](https://connpass.com/event/75364/)
+    - お題は「ガラケー入力」
+- [Elmなんか作ろう会 #3 - connpass](https://connpass.com/event/75299/)
+    - お題は「TRPGダイス」
+- [Elmなんか作ろう会 #2 - connpass](https://connpass.com/event/75130/)
+    - お題は「インクリメンタルサーチ」
+- [Elmなんか作ろう会 #1 - connpass](https://connpass.com/event/75048/)
+    - お題は「TODOリスト」
