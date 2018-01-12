@@ -1,0 +1,42 @@
+<html>
+<head>
+  <style>
+    .omikuji {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .kuji {
+      height: 400;
+      position: absolute;
+      z-index: 10;
+      animation: fadeIn 1s ease 0s 1 normal;
+    }
+
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+
+    @keyframes shakeR {
+      0% { transform: rotate(-16deg); }
+      50% { transform: rotate(0deg); }
+      100% { transform: rotate(-16deg); }
+    }
+
+    @keyframes shakeL {
+      0% { transform: rotate(-16deg); }
+      50% { transform: rotate(-32deg); }
+      100% { transform: rotate(-16deg); }
+    }
+  </style>
+</head>
+<body>
+  <script src="js/omikuji.js"></script>
+  <script>
+    var app = Elm.Main.fullscreen()
+  </script>
+</body>
+</html>
