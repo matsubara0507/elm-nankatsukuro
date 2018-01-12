@@ -4,11 +4,11 @@ Run
 
 ```
 $ elm package install
-$ elm-make src/Main.elm --output=js/omikuji.js
+$ elm-make src/Main.elm --output=js/main.js
 ```
 
 When deploy for GitHub Pages
 
 ```
-$ elm-make src/Main.elm --output=../js/omikuji.js
+$ elm-make src/Main.elm --output=../js/main.js
 ```
