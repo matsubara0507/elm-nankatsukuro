@@ -16,6 +16,8 @@
     - [ぼくの成果物](https://matsubara0507.github.io/elm-nankatsukuro/work/4)
 - [Elmなんか作ろう会 #3 - connpass](https://connpass.com/event/75299/)
     - お題は「TRPGダイス」
+    - [ぼくの成果物](https://matsubara0507.github.io/elm-nankatsukuro/work/3)
+    - [ellie app](https://ellie-app.com/8NgK44sXra1/2)
 - [Elmなんか作ろう会 #2 - connpass](https://connpass.com/event/75130/)
     - お題は「インクリメンタルサーチ」
 - [Elmなんか作ろう会 #1 - connpass](https://connpass.com/event/75048/)
