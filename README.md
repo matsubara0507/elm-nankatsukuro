@@ -22,3 +22,16 @@
     - お題は「インクリメンタルサーチ」
 - [Elmなんか作ろう会 #1 - connpass](https://connpass.com/event/75048/)
     - お題は「TODOリスト」
+
+#### 番外編
+
+さらにゆるーーーーくなった。
+どっちかと言うともくもく会
+
+- Elmでなんかつくろう番外編 ver0.0.n
+    - お題は「ドローツール」か「Twitterタイムライン」
+        - Twitter API はログインしないと扱えない
+        - なので僕は GitHub API で遊んでる
+    - [ぼくの成果物](https://matsubara0507.github.io/elm-nankatsukuro/work/0.x.y#matsubara0507)
+    - [Elmでなんかつくろう番外編ver0.0.1](https://connpass.com/event/77975/)
+    - [Elmでなんかつくろう番外編ver0.0.2](https://connpass.com/event/78386/)
